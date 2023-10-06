@@ -1,7 +1,7 @@
 # **Uppgift 3**
 
 
-***## Nedan har jag kopierat in uppgiftsbeskrivningen.***
+*** Nedan har jag kopierat in uppgiftsbeskrivningen.***
 
 **Del 2.1 - Skapa Github-konto och repo med en README-fil:**
 
